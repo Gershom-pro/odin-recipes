@@ -1,5 +1,6 @@
-This is my first Odin project.
+# My Recipe Website
 
+**This is my first Odin project!**
 
 It covers the basics of HTML. Basically, how to structure and build a simple web page.
 
